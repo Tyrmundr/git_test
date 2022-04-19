@@ -1,0 +1,5 @@
+Hello there!
+
+This is my first "hello world" file I'm about to commit and then possibly push into the GitHub repo.
+
+Cheers!
